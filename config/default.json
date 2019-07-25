@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://dbAdmin:7starr@tiny-uqstg.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI":</YourCredentials>,
     "baseUrl":"http://localhost:5000"
 }
